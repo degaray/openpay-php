@@ -24,6 +24,6 @@
         "issues": "https://github.com/open-pay/openpay-php/issues"
     },
     "autoload": {
-        "psr-4": { "Openpay\\Sdk": "" }
+        "psr-4": { "Openpay\\Sdk\\": "" }
     }
 }
