@@ -1,5 +1,5 @@
 {
-    "name": "degaray/openpay-sdk",
+    "name": "degaray/openpay-php",
     "description": "This is a client implementing the payment services for Openpay at openpay.mx",
     "type": "library",
     "version": "1.0.4",
